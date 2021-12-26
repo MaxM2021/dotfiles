@@ -1,0 +1,20 @@
+
+Dot file dependencies
+
+
+Spotify
+    pulseaudio
+
+ranger
+    For File compression and extraction
+         atool
+         zip
+         unzip
+
+    used like  :compress archivename.xxx.xx
+    when files are selected
+
+
+FONTS
+    inconsolata
+    font awesome 5
