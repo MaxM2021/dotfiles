@@ -1,0 +1,43 @@
+!~/.Xresources
+!URXVT config
+URxvt.scrollBar: false
+Rxvt.font: xft:inconsolata:size=12
+
+!Colors
+urxvt*.foreground:   #6a9d9b
+urxvt*.background:   #1b1b1b
+!lighter background: #292929
+urxvt*.cursorColor:  #93a1a1
+
+!   1
+urxvt*.color0:       #ad6e3b
+urxvt*.color8:       #ad6e3b
+
+!   2 
+urxvt*.color1:       #246966
+urxvt*.color9:       #246966
+
+!   3 
+urxvt*.color2:       #833317
+urxvt*.color10:      #FFC1ac
+
+!   4 
+urxvt*.color3:       #438280
+urxvt*.color11:      #438280
+
+!   5 
+urxvt*.color4:       #ad7c3b
+urxvt*.color12:      #d7aa6d
+
+!   6 
+urxvt*.color5:       #2b516f
+urxvt*.color13:      #7490a6
+
+!   7 
+urxvt*.color6:       #ad583b
+urxvt*.color14:      #d7886d
+
+!   8 
+urxvt*.color7:       #304274
+urxvt*.color15:      #7c89cd
+

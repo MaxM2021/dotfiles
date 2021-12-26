@@ -1,0 +1,9 @@
+[user]
+	name = MaxM2021
+	email = origami.freak11@gmail.com
+[init]
+	defaultBranch = main
+[color]
+	ui = auto
+[core]
+	editor = vim
